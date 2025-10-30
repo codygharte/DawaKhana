@@ -1,6 +1,6 @@
-![DawaKhana](https://github.com/user-attachments/assets/1abd83bc-804d-44bd-b6bf-ffe3509423e9)
 
 # DawaKhana
+<img width="1080" height="1350" alt="Beige Minimalist Hand Holding Phone Mockup Instagram Post" src="https://github.com/user-attachments/assets/e3634026-f28a-455d-bf2b-dc71fd1ba2af" />
 
 A Flutter-based hospital management and appointment booking application.
 
@@ -16,6 +16,9 @@ DawaKhana is a comprehensive mobile application designed to streamline hospital 
 - **User Profile**: Manage patient information and medical history
 - **Doctor Directory**: Browse and view all available doctors
 - **Splash Screen**: Welcoming entry point for the application
+
+## User Interface
+![DawaKhana](https://github.com/user-attachments/assets/1abd83bc-804d-44bd-b6bf-ffe3509423e9)
 
 ## Tech Stack
 
